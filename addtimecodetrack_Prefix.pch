@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'addtimecodetrack' target in the 'addtimecodetrack' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
